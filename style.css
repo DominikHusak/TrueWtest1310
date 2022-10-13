@@ -1,6 +1,29 @@
+html{
+    background-color: aqua;
+}
 h1{
     text-align: center;
 }
 p{
     margin-top: 20px;
+}
+h2{
+    text-align: center;
+}
+.container{
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+.item1{
+    background-color: blue;
+}
+.item2{
+    background-color: rgb(72, 72, 228);
+}
+.item3{
+    background-color: rgb(23, 23, 128);
+}
+.item4{
+    background-color: rgb(105, 105, 175);
 }
